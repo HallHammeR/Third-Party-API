@@ -30,4 +30,4 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-![](scmn.png)
+![](scrnn.png)
